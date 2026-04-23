@@ -25,3 +25,30 @@ I wanted to understand whether trader profitability and decision-making changed 
 I cleaned and merged large datasets, engineered sentiment regimes, compared PnL and win rates, and segmented traders by performance.
 
 One interesting insight was that Fear periods had higher win rates, while Greed periods had slightly higher profits, showing that confidence and profitability are not always aligned.
+
+## How to Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/iamkaus/assignment.git
+cd assignment
+
+### 2. Create virtual environment (Optional if using pycharm)
+```bash
+python -m venv .venv
+source .venv/bin/activate
+
+For Windows
+```bash
+.venv\Scripts\activate
+
+### 3. Install dependencies 
+```bash
+pip install -r requirement.txt
+
+### 4. Launch Jupyter Notebook
+```bash
+jupyter notebook
+
+### 5. Rub the cells 
+Open the notebook file and run all cells to reproduce the complete analysis.
