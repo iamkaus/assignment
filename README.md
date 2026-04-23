@@ -32,6 +32,7 @@ One interesting insight was that Fear periods had higher win rates, while Greed 
 ```bash
 git clone https://github.com/iamkaus/assignment.git
 cd assignment
+```
 
 ### 2. Create virtual environment (Optional if using pycharm)
 ```bash
