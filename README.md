@@ -37,18 +37,22 @@ cd assignment
 ```bash
 python -m venv .venv
 source .venv/bin/activate
+```
 
 For Windows
 ```bash
 .venv\Scripts\activate
+```
 
 ### 3. Install dependencies 
 ```bash
 pip install -r requirement.txt
+```
 
 ### 4. Launch Jupyter Notebook
 ```bash
 jupyter notebook
+```
 
 ### 5. Rub the cells 
 Open the notebook file and run all cells to reproduce the complete analysis.
