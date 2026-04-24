@@ -55,5 +55,5 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-### 5. Rub the cells 
+### 5. Run the cells 
 Open the notebook file and run all cells to reproduce the complete analysis.
